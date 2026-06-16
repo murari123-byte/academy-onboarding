@@ -6,10 +6,12 @@ Tilli Academy Onboarding
 - Github Email ID : prajwalreddy0818@gmail.com
 
 - Name : Ismail Abbasi
-
-- mail : ismailabbasi118@gmail.com
+- Mail : ismailabbasi118@gmail.com
 
 - Name: Devesh
 - ID: codesbydevesh
 - Email: devpro0306@gmail.com
 
+- Name: Rama Murari Reddy
+- Github ID: murari123-byte
+- Github Email: avatalaramamurarireddy@gmail.com
